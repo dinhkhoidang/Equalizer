@@ -1,7 +1,7 @@
 # Equalizer
 Graphic Equalizer
 
-<img src="https://github.com/dinhkhoidang/Equalizer/blob/master/equalizer%20audio.png"/>
+<img src="https://github.com/dinhkhoidang/Equalizer/blob/master/equalizer%20audio.png" alt="Graphic Equalizer Audio "/>
 
 # The JUCE Library
 
