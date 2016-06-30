@@ -1,0 +1,2 @@
+# Equalizer
+Graphic Equalizer
