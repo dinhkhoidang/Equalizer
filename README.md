@@ -1,6 +1,8 @@
 # Equalizer
 Graphic Equalizer
 
+<img src=""/>
+
 # The JUCE Library
 
 JUCE (Jules' Utility Class Extensions) is an all-encompassing 
