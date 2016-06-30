@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{B43E40DF-9326-88AC-6FDE-37C2BB84AC40}") = "Equalizer", "Equalizer.vcxproj", "{87AEA528-A690-9E06-4792-62C9F1F4A18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AEA528-A690-9E06-4792-62C9F1F4A18C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87AEA528-A690-9E06-4792-62C9F1F4A18C}.Debug|Win32.Build.0 = Debug|Win32
+		{87AEA528-A690-9E06-4792-62C9F1F4A18C}.Release|Win32.ActiveCfg = Release|Win32
+		{87AEA528-A690-9E06-4792-62C9F1F4A18C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
